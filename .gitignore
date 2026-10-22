@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Model checkpoints
+checkpoints/
+runs/
+*.pt
+*.pth
+
+# Environment variables
+.env
